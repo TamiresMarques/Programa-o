@@ -18,14 +18,6 @@ class Main {
     salario = gratificacao - imposto;
    
     System.out.println("O salário é de R$ " + salario + ".");
-
-    
-
-    //if (salárioFuncionário <= 500) { 
-      //novoSalário = porcentagem2 * salárioFuncionário + salárioFuncionário;
-   // } else {
-     // novoSalário = porcentagem1 * salárioFuncionário + salárioFuncionário;
-//    } 
   
   }
 }
